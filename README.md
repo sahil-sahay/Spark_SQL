@@ -1,0 +1,2 @@
+# Spark_SQL
+Spark Application for Analysis by Creating DataFrames from different types of files on various storage. Inferring the Schema Using Reflection.Automatically converting an RDD containing case classes to a DataFrame. Converting Dataframes into SQL Tables/Views. Writing Complex queries using joins, sub-queries, Aggregate functions over SQL Views/DataFrames. Understanding schema creation using Case Class &amp; using toDF() methods.
